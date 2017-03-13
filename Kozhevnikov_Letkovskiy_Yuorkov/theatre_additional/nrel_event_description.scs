@@ -1,0 +1,5 @@
+nrel_event_description->nrel_email;;
+
+nrel_event_description=> nrel_main_idtf:
+	[описание события*](* <-lang_ru;; *);
+	[event description*](* <-lang_en;; *);;

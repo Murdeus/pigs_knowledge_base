@@ -1,0 +1,5 @@
+nrel_repertoire->nrel_email;;
+
+nrel_repertoire=> nrel_main_idtf:
+	[репертуар*](* <-lang_ru;; *);
+	[repertoire*](* <-lang_en;; *);;
